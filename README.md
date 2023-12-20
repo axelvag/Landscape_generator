@@ -1,3 +1,7 @@
+![image](image/Montagne1.jpg)
+![image](image/Montagne2.jpg)
+![image](image/Montagne3.jpg)
+
 # GrAPiC 
 
 ## Starting
