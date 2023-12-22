@@ -12,6 +12,13 @@ Here is the result of 3 compilations which therefore gives 3 different landscape
 
 [**Download Subject CPP**](Subject.cpp)
 
+# Starting
+
+Clone this repo
+```
+$ git clone https://github.com/axelvag/Landscape_generator
+```
+
 # GrAPiC 
 
 ## Starting
