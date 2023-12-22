@@ -1,6 +1,16 @@
+# Landscape Generator
+
+Perlin noise to generate the terrain silhouette forming a landscape.
+
+Here is the result of 3 compilations which therefore gives 3 different landscapes:
+
 ![image](image/Montagne1.jpg)
 ![image](image/Montagne2.jpg)
 ![image](image/Montagne3.jpg)
+
+# Subject
+
+[**Download Subject CPP**](Subject.cpp)
 
 # GrAPiC 
 
